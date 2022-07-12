@@ -1,0 +1,15 @@
+logs/
+*.log
+*.log*
+node_modules/
+coverage/
+config/mongodb.ts
+.idea/
+run/
+typings/**/**
+.DS_Store
+*.swp
+!.autod.conf.js
+.pnpm/**/*
+dist/*
+
